@@ -1,0 +1,4 @@
+Soma dos números pares: 14
+Quantidade de números pares: 6
+Soma dos números ímpares: 6
+Quantidade de números ímpares: 2

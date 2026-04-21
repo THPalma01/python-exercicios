@@ -1,0 +1,4 @@
+Soma dos números pares: 426
+Quantidade de números pares: 15
+Soma dos números ímpares: 1080
+Quantidade de números ímpares: 20
